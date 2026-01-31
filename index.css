@@ -1,0 +1,21 @@
+table, th, td {
+    
+    border: 3px double red;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+body{
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    background-color: aqua;
+}
+
+h2{
+    background-color: goldenrod;
+    border: 2px dotted;
+}
